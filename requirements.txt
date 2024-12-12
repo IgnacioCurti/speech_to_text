@@ -1,0 +1,3 @@
+pvrecorder
+speechrecognition
+python-dotenv
